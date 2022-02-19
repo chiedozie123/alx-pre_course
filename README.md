@@ -1,1 +1,1 @@
-__This file is mandatory in all ALX School projects__
+This is my first thing on read me.
